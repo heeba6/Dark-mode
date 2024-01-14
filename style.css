@@ -47,7 +47,8 @@ nav ul li a:hover{
     margin-bottom: ;
 }
 span{
-    color:#ff4321;
+    //color:#ff4321;
+    color:blue ;
 }
 .info p{
     color:#606163;
